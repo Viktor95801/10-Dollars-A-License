@@ -23,7 +23,7 @@ The Software, to sell the The Software, and/or to relicense the The Software
 Restrictions and Condition
 --------------------------
 1. Upon making use of the The Software for Military Purposes or with Harmful Intent,
-   you are revoked the title of being a good person and you are encouraged to:
+   you are revoked the title of being a good person and you are encouraged to (but not forced to):
      (a) donate the equivalent of USD 10 (ten US dollars) to a local community 
          organization or charity, 
      (b) include in any redistribution a short statement noting that a donation
