@@ -1,0 +1,35 @@
+    ===~----------------------------------------------~===
+----| 10DAL - The "10 Dollars A License" license. (v1.0) |----
+    ===~----------------------------------------------~===
+Copyright (c) 2025 Viktor Hugo Caetano M. Goulart
+
+Permission is granted to any person that obtains a version of this software
+and associated files (the "The Software"), to use the The Software with no restrictions,
+including - but not limited to - the rights to use the The Software, 
+copy the The Software, modify the The Software, sell copies of the The
+Software, relicense the The Software, even if you are 
+Richard M. Stallman, under the following conditions:
+
+Restrictions:
+1. Upon making use of the The Software for military purposes
+   or with The Harmful Intent*, you choose to make a Dog unhappy and
+   **must** donate the equivalent to 10 dollars for a local community
+   in order to make that Dog happy again.
+
+However, if you want to be considered a better person, you should:
+1. Be nice to people. Donate money, give gifts, volunteer to help them.
+2. Sign for volunteer work and/or donate 10 dollars monthly to your
+   local charity.
+3. Do NOT waste anything that comes from natural non-renewable resources.
+4. Be tolerant. Everything in humanity, including the device, be it physical or
+   digital, that you are using to read this right now, came from cooperation.
+5. Do NOT insult other people without a prior reason to it.
+6. Study upon topics you consider yourself ignorant about.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
