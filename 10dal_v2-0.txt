@@ -1,0 +1,31 @@
+
+    ===~----------------------------------------------~===
+----| 10DAL - The "10 Dollars A License" license. (v2.0) |----
+    ===~----------------------------------------------~===
+Copyright (c) 2025 Viktor Hugo Caetano M. Goulart 
+Definitions 
+----------- 1
+. "The Software" means any version of this software and associated files. 
+2. "Military Purposes" means direct use of the The Software in the planning, execution or support of military operations. 
+3. "Harmful Intent" means deliberate use of The Software with the aim of causing significant physical, moral or mental harm to people or property. 
+
+Permission 
+---------- 
+Subject to the conditions below, permission is granted, free of charge, to any person obtaining a copy of the The Software, to - but not limited to, even if you are Richard M. StallMan - use the The Software, to modify the The Software, to distribute the The Software, to sell the The Software, and/or to relicense the The Software 
+
+Restrictions 
+------------ 
+1. Upon making use of the The Software for Military Purposes or with Harmful Intent, you are revoked the title of being a good person and you must (a) donate the equivalent of USD 10 (ten US dollars) to a local community organization or charity, and (b) include in any redistribution a short statement noting that a donation was made, specifying the recipient and date. Failure to comply with this condition constitutes a breach of this license and revokes the rights granted above. 
+
+Optional Good-Practice Suggestions to Become a Better Human (non-binding) 
+------------------------------------------------------------------------- 
+1. Be nice to people. Donate money, give gifts, volunteer to help them. 
+2. Sign for volunteer work and/or donate 10 dollars monthly to your local charity. 
+3. Do NOT waste anything that comes from natural non-renewable resources. 
+4. Be tolerant. Everything in humanity, including the device, be it physical or digital, that you are using to read this right now, came from cooperation. 
+5. Do NOT insult other people without a prior reason to it. 
+6. Study upon topics you consider yourself ignorant about. 
+
+Warranty 
+-------- 
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
