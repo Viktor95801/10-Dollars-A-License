@@ -3,19 +3,20 @@
 ----| 10DAL - The "10 Dollars A License" license. (v2.1) |----
     ===~----------------------------------------------~===
 Copyright (c) <year> <copyright holder>
-
+_______
 Summary
 -------
 Do whatever you want, be a nice person.
-
+___________
 Definitions
 -----------
 1. "The Software" means any version of this software and associated files.
-2. "Military Purposes" means direct and indirect use of the The Software in
+2. "Military Purposes" means direct use of the The Software in
    the planning, execution or support of military operations.
 3. "Harmful Intent" means deliberate use of The Software with the aim of causing 
-   significant physical, moral or mental harm to people or property.
-
+   significant physical, moral or mental harm* to people or property.
+   * Examples of "harm" include: harassment, 
+__________
 Permission
 ----------
 The Software is licensed under the 10DAL license, which is
@@ -23,16 +24,18 @@ subject to the conditions below, permission is granted, free of charge, to any
 person obtaining a copy of the The Software, to - but not limited to, even if you are
 Richard M. StallMan - use the The Software, to modify the The Software, to distribute the
 The Software, to sell the The Software, and/or to relicense the The Software 
-
+__________________________
 Restrictions and Condition
 --------------------------
 1. Upon making use of the The Software for Military Purposes or with Harmful Intent,
-   you are revoked the title of being a good person and you are encouraged to (but not forced to):
+   you are revoked the title of being a good person and using the The Software, 
+   then you are encouraged to (but not forced to) in order to get your rights to use
+   the The Software back:
      (a) donate the equivalent of USD 10 (ten US dollars) to a local community 
          organization or charity, 
      (b) include in any redistribution a short statement noting that a donation
          was made, specifying the recipient and date.
-
+___________
 Termination
 -----------
 Failure to comply with the condition in the previous section constitutes a
@@ -40,7 +43,7 @@ material breach of this license and automatically terminates the rights
 granted to you under this license. Termination does not affect rights that
 have already vested prior to the breach, except to the extent required by
 applicable law.
-
+_________________________________________________________________________
 Optional Good-Practice Suggestions to Become a Better Human (non-binding)
 -------------------------------------------------------------------------
 1. Be kind to people. Donate money, give gifts, help them.
@@ -51,7 +54,7 @@ Optional Good-Practice Suggestions to Become a Better Human (non-binding)
    digital, that you are using to read this right now, came from cooperation.
 5. Do NOT insult other people without a prior reason to it.
 6. Study upon topics you consider yourself ignorant about.
-
+___________________
 Warranty Disclaimer
 -------------------
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
