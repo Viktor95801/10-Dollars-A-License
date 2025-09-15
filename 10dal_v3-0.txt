@@ -1,6 +1,6 @@
 
     ===~----------------------------------------------~===
-----| 10DAL - The "10 Dollars A License" license. (v2.1) |----
+----| 10DAL - The "10 Dollars A License" license. (v3.0) |----
     ===~----------------------------------------------~===
 Copyright (c) <year> <copyright holder>
 _______
@@ -15,7 +15,9 @@ Definitions
    the planning, execution or support of military operations.
 3. "Harmful Intent" means deliberate use of The Software with the aim of causing 
    significant physical, moral or mental harm* to people or property.
-   * Examples of "harm" include: harassment, 
+   * Examples of "harm" include: harassment, anything that may hurt a person
+     physically - including torture, human trafficking, genocide,
+     creation of weapons, etc.
 __________
 Permission
 ----------
@@ -23,26 +25,7 @@ The Software is licensed under the 10DAL license, which is
 subject to the conditions below, permission is granted, free of charge, to any
 person obtaining a copy of the The Software, to - but not limited to, even if you are
 Richard M. StallMan - use the The Software, to modify the The Software, to distribute the
-The Software, to sell the The Software, and/or to relicense the The Software 
-__________________________
-Restrictions and Condition
---------------------------
-1. Upon making use of the The Software for Military Purposes or with Harmful Intent,
-   you are revoked the title of being a good person and using the The Software, 
-   then you are encouraged to (but not forced to) in order to get your rights to use
-   the The Software back:
-     (a) donate the equivalent of USD 10 (ten US dollars) to a local community 
-         organization or charity, 
-     (b) include in any redistribution a short statement noting that a donation
-         was made, specifying the recipient and date.
-___________
-Termination
------------
-Failure to comply with the condition in the previous section constitutes a
-material breach of this license and automatically terminates the rights
-granted to you under this license. Termination does not affect rights that
-have already vested prior to the breach, except to the extent required by
-applicable law.
+The Software, to sell the The Software, and/or to relicense the The Software.
 _________________________________________________________________________
 Optional Good-Practice Suggestions to Become a Better Human (non-binding)
 -------------------------------------------------------------------------
@@ -54,6 +37,9 @@ Optional Good-Practice Suggestions to Become a Better Human (non-binding)
    digital, that you are using to read this right now, came from cooperation.
 5. Do NOT insult other people without a prior reason to it.
 6. Study upon topics you consider yourself ignorant about.
+7. If you use the The Software with Harmful Intent or with Military Purposes,
+   you are specially encouraged to make donations and volunteer for people 
+   in your area.
 ___________________
 Warranty Disclaimer
 -------------------
