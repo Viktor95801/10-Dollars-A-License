@@ -2,7 +2,8 @@
     ===~----------------------------------------------~===
 ----| 10DAL - The "10 Dollars A License" license. (v2.0) |----
     ===~----------------------------------------------~===
-Copyright (c) 2025 Viktor Hugo Caetano M. Goulart 
+Copyright (c) <year> <copyright holder> 
+
 Definitions 
 ----------- 1
 . "The Software" means any version of this software and associated files. 
